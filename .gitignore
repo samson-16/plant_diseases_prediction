@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+
+# Streamlit
+.streamlit/
+
+# Logs
+logs/
+*.log
+
+# Model and data files
+trained_plant_disease_model.keras
+*.h5
+*.keras
+*.pkl
+*.joblib
+trained_plant_disease_model.keras.index
+training_hist.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Miscellaneous
+*.sqlite3
+temp/
+*.tmp
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Data directories (if using folders for dataset)
+train/
+valid/
+test/
+
+# Output images
+output.png
+confusion matrix.png
