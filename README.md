@@ -1,8 +1,8 @@
 # 🌿 Plant Disease Recognition System
 This project is a web-based system that uses machine learning to detect plant diseases from leaf images.
-## Models Used
-CNN (Convolutional Neural Network)** for image classification
-Random Forest** on CNN-extracted features for improved reliability
+🧠 Models Used:
+CNN (Convolutional Neural Network) → feature extraction & classification
+Random Forest → applied on CNN-extracted features for robust performance
 
 ## Features
 - Upload or capture leaf images
